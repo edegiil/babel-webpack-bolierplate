@@ -1,0 +1,12 @@
+# npm
+node_modules/
+
+# build
+dist/
+
+# env
+.env
+.env.dev
+
+# mac
+.DS_Store
